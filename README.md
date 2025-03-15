@@ -38,7 +38,3 @@ wine pvz_installer.exe
 - If you encounter graphical issues, try running `winecfg` and setting the graphics mode to **emulated virtual desktop**.
 - Additional registry fixes can be found in the `configs/` directory.
 
-## License
-This repository only contains patches and configurations. The game itself is not included.
-
-
